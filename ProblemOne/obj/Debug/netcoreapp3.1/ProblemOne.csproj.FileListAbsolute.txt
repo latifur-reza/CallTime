@@ -1,0 +1,13 @@
+D:\Task\ProblemOne\ProblemOne\bin\Debug\netcoreapp3.1\ProblemOne.exe
+D:\Task\ProblemOne\ProblemOne\bin\Debug\netcoreapp3.1\ProblemOne.deps.json
+D:\Task\ProblemOne\ProblemOne\bin\Debug\netcoreapp3.1\ProblemOne.runtimeconfig.json
+D:\Task\ProblemOne\ProblemOne\bin\Debug\netcoreapp3.1\ProblemOne.runtimeconfig.dev.json
+D:\Task\ProblemOne\ProblemOne\bin\Debug\netcoreapp3.1\ProblemOne.dll
+D:\Task\ProblemOne\ProblemOne\bin\Debug\netcoreapp3.1\ProblemOne.pdb
+D:\Task\ProblemOne\ProblemOne\obj\Debug\netcoreapp3.1\ProblemOne.csprojAssemblyReference.cache
+D:\Task\ProblemOne\ProblemOne\obj\Debug\netcoreapp3.1\ProblemOne.AssemblyInfoInputs.cache
+D:\Task\ProblemOne\ProblemOne\obj\Debug\netcoreapp3.1\ProblemOne.AssemblyInfo.cs
+D:\Task\ProblemOne\ProblemOne\obj\Debug\netcoreapp3.1\ProblemOne.csproj.CoreCompileInputs.cache
+D:\Task\ProblemOne\ProblemOne\obj\Debug\netcoreapp3.1\ProblemOne.dll
+D:\Task\ProblemOne\ProblemOne\obj\Debug\netcoreapp3.1\ProblemOne.pdb
+D:\Task\ProblemOne\ProblemOne\obj\Debug\netcoreapp3.1\ProblemOne.genruntimeconfig.cache
